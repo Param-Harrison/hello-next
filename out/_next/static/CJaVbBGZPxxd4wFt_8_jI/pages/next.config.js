@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{DpAU:function(n,o,p){(window.__NEXT_P=window.__NEXT_P||[]).push(["/next.config",function(){return p("FsEE")}])},FsEE:function(n,o){n.exports={exportPathMap:function(){return{"/":{page:"/"},"/style":{page:"/style"}}}}}},[["DpAU",0]]]);
